@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luhcaslobo
 - 👀 I’m interested in DataBase & Machine Learning
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 🌱 I’m currently learning MySQL
 - 📫 How to reach me: lucaslobo3012@gmail.com
 
 <!---
