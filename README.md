@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luhcaslobo
 - 👀 I’m interested in DataBase & Machine Learning
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning about vulnerabilities in web applications with Gabriel Pato and improving my knowledge based on Backend Developer Roadmap (https://roadmap.sh/backend)
 - 📫 How to reach me: lucaslobo3012@gmail.com
 
 <!---
