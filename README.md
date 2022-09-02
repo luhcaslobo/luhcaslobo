@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @luhcaslobo
 - 👀 I’m interested in DataBase & Machine Learning
 - 🌱 I’m currently learning about vulnerabilities in web applications with Gabriel Pato and improving my knowledge based on Backend Developer Roadmap (https://roadmap.sh/backend)
+- My portfolio is in developing, hosted on github pages: https://luhcaslobo.github.io/Portifolio/
 - 📫 How to reach me: lucaslobo3012@gmail.com
 
 <!---
