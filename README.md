@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @luhcaslobo
-- 👀 I’m interested in DataBase & Machine Learning
-- 🌱 I’m currently learning about vulnerabilities in web applications with Gabriel Pato and improving my knowledge based on Backend Developer Roadmap (https://roadmap.sh/backend)
-- My portfolio is in developing, hosted on github pages: https://luhcaslobo.github.io/Portifolio/
-- 📫 How to reach me: lucaslobo3012@gmail.com
+# Olá, bem‑vindo ao meu perfil!
 
-<!---
-luhcaslobo/luhcaslobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou estudante de desenvolvimento web e profissional de infraestrutura de redes. Atualmente concentro‑me em integrar aplicações web com serviços de rede corporativa e automação.
+
+## 🧰 Principais tecnologias
+
+* **Back‑end:** Python (FastAPI, Django), Node.js
+* **Front‑end:** React, Vite, Tailwind CSS
+* **DevOps & Automação:** Bash, PowerShell, Telnet Automation, SNMP, Docker
+* **Redes:** Configuração de switches Alcatel OS6560/6900, Dell 6248, PABX Alcatel OXE
+* **Data & ML:** Pandas, TensorFlow/Keras
+
+## 🔨 Projetos em destaque
+
+| Projeto                      | Descrição                                                          | Stack                               |
+| ---------------------------- | ------------------------------------------------------------------ | ----------------------------------- |
+| **DailyBox**                 | Plataforma que envia mensagens diárias de carinho para casais.     | Django, React, Tailwind, PostgreSQL |
+| **Indoor Map**               | Ferramenta web para mapear ramais sobre plantas em PDF.            | React, pdf.js, FastAPI              |
+| **PABX API & Monitoramento** | API REST e scripts de automação para administração do Alcatel OXE. | FastAPI, Telnetlib3, Python         |
+| **Greyhound Predictor**      | Modelo de machine learning para previsão de corridas de galgos.    | Python, Keras                       |
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=default)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact)
+
+## 📚 Atualmente estudando
+
+* CPA‑20
+* JavaScript avançado
+
+## 📫 Contato
+
+* LinkedIn: [seu‑linkedin](https://www.linkedin.com/in/SEU_LINK)
+* E‑mail: [seu@email.com](mailto:seu@email.com)
