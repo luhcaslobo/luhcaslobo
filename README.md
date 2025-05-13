@@ -26,7 +26,7 @@ Sou estudante de desenvolvimento web e profissional de infraestrutura de redes. 
 
 ## 📚 Atualmente estudando
 
-* CPA‑20
+* Machile-learning avançado
 * JavaScript avançado
 
 ## 📫 Contato
