@@ -21,8 +21,8 @@ Sou estudante de desenvolvimento web e profissional de infraestrutura de redes. 
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=default)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=luhcaslobo\&show_icons=true\&theme=default)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luhcaslobo\&layout=compact)
 
 ## 📚 Atualmente estudando
 
