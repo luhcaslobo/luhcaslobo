@@ -31,5 +31,5 @@ Sou estudante de desenvolvimento web e profissional de infraestrutura de redes. 
 
 ## 📫 Contato
 
-* LinkedIn: [seu‑linkedin](https://www.linkedin.com/in/SEU_LINK)
-* E‑mail: [seu@email.com](mailto:seu@email.com)
+* LinkedIn: [luhcaslobo](https://www.linkedin.com/in/luhcaslobo/)
+* E‑mail: [lucaslobo3012@gmail.com](mailto:lucaslobo3012@gmail.com)
